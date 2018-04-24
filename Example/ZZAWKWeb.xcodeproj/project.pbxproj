@@ -19,7 +19,7 @@
 		0955894EF85F5DFDC523EB10 /* Pods_ZZAWKWeb_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZZAWKWeb_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F05D0AE4789D5BB8D09BDEC /* Pods-ZZAWKWeb_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZZAWKWeb_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZZAWKWeb_Tests/Pods-ZZAWKWeb_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		1E45D66F151BAE931FC7778C /* Pods-ZZAWKWeb_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZZAWKWeb_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZZAWKWeb_Tests/Pods-ZZAWKWeb_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		53C187F8294C269B26D72C15 /* ZZAWKWeb.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ZZAWKWeb.podspec; path = ../ZZAWKWeb.podspec; sourceTree = "<group>"; };
+		53C187F8294C269B26D72C15 /* ZZAWKWeb.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ZZAWKWeb.podspec; path = ../ZZAWKWeb.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		6003F591195388D20070C39A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -29,8 +29,8 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		7EDCBCAEB545B489F80528DA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		93CA6EE1E81E1F5186F6768B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		7EDCBCAEB545B489F80528DA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		93CA6EE1E81E1F5186F6768B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

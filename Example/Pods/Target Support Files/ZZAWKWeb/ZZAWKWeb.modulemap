@@ -1,0 +1,6 @@
+framework module ZZAWKWeb {
+  umbrella header "ZZAWKWeb-umbrella.h"
+
+  export *
+  module * { export * }
+}

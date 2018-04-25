@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZZAWKWebProject_Tests' do
+  pod 'ZZAWKWebProject', :path => '../'
+  
+  
+end

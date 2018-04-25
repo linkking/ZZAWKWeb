@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'ZZAWKWebProject_Example' do
+  pod 'ZZAWKWebProject', :path => '../'
+
+  target 'ZZAWKWebProject_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+    pod 'FBSnapshotTestCase'
+    pod 'Expecta+Snapshots'
+  end
+end

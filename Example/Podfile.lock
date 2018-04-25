@@ -10,7 +10,7 @@ PODS:
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - Specta (1.0.7)
-  - ZZAWKWebProject (0.1.1)
+  - ZZAWKWebProject (0.1.2)
 
 DEPENDENCIES:
   - Expecta
@@ -35,7 +35,7 @@ SPEC CHECKSUMS:
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
-  ZZAWKWebProject: 3623f4bb64e654d04ce71883d80bc1541f49ab20
+  ZZAWKWebProject: 0e8a442e95723a19ffc8987490d78db91d699377
 
 PODFILE CHECKSUM: f9ac1564e3d9672ad0fd3c9d43e99150ede418b7
 

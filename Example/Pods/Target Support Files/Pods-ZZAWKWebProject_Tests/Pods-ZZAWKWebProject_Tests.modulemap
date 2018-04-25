@@ -1,0 +1,6 @@
+framework module Pods_ZZAWKWebProject_Tests {
+  umbrella header "Pods-ZZAWKWebProject_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

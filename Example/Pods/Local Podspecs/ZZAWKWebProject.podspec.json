@@ -1,9 +1,9 @@
 {
   "name": "ZZAWKWebProject",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of ZZAWKWebProject.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/linkking/ZZAWKWebProject",
+  "homepage": "https://github.com/linkking/ZZAWKWeb",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "linkking": "zhulei@oradt.com"
   },
   "source": {
-    "git": "https://github.com/linkking/ZZAWKWebProject.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/linkking/ZZAWKWeb.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
